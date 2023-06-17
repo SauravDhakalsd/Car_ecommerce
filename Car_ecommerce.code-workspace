@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"name": "Car_ecommerce",
+		"path": "."
+	}
+],
+  "settings": {
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true
+  }
+}
